@@ -99,12 +99,3 @@ notebooks/trader_sentiment_analysis.ipynb
 5. Run all cells to reproduce the analysis and visualizations.
 
 ---
-
-# What This Means Practically
-
-A recruiter can do this:
-
-```bash
-git clone your_repo
-pip install requirements
-jupyter notebook
